@@ -15,9 +15,9 @@ I often include an image URL for a note in my frontmatter or inline field. This 
     `$= await dv.view("scripts/obsidian-image-from-field", ["<size>", "<alignment>", "<field>"])`
     ```
 
-    `size` ⇢ number (eg: 250, 300, 825, etc.)  
-    `alignment` ⇢ `left`, `center`, `right`  
-    `field` ⇢ name of field that holds the image source url (can be inline or frontmatter field)
+    - `size` ⇢ number (eg: 250, 300, 825, etc.)
+    - `alignment` ⇢ `left`, `center`, `right`
+    - `field` ⇢ name of field that holds the image source url (can be inline or frontmatter field)
 
 <br>
 
