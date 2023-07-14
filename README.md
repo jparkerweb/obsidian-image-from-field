@@ -12,7 +12,7 @@ I often include an image URL for a note in my frontmatter or inline field. This 
 - Use the following in your note where you want the image to be displayed:
 
     ```javascript
-    `$= await dv.view("= scripts/obsidian-image-from-field", ["<size>", "<alignment>", "<field>"])`
+    `$= await dv.view("scripts/obsidian-image-from-field", ["<size>", "<alignment>", "<field>"])`
     ```
 
     `size` ⇢ number (eg: 250, 300, 825, etc.)
