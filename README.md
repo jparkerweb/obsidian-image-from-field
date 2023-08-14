@@ -16,7 +16,7 @@ I often include an image URL for a note in my frontmatter or inline field. This 
     ```
 
     - `size` ⇢ number (eg: 250, 300, 825, etc.)
-    - `alignment` ⇢ `left`, `center`, `right`
+    - `alignment` ⇢ `left`, `float-left`, `float-left-with-margin`, `center`, `right`, `float-right`, `float-right-with-margin`
     - `field` ⇢ name of field that holds the image source url (can be inline or frontmatter field)
 
 <br>
