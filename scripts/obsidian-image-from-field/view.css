@@ -4,6 +4,10 @@
 /* GitHub: https://github.dev/jparkerweb/obsidian-image-from-field */
 
 /* - alignment classes -*/
-.oiff--left { text-align: left; }
-.oiff--center { text-align: center; }
-.oiff--right { text-align: right; }
+.oiff--left                    { text-align: left; }
+.oiff--float-left              { float: left; }
+.oiff--float-left-with-margin  { float: left; margin-right: 50px; }
+.oiff--center                  { text-align: center; }
+.oiff--right                   { text-align: right; }
+.oiff--float-right             { float: right; }
+.oiff--float-right-with-margin { float: right; margin-left: 50px; }
