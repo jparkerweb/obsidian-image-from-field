@@ -28,3 +28,7 @@ I often include an image URL for a note in my frontmatter or inline field. This 
 ## Example
 
   ![example](docs/example.png)
+
+---
+
+_note: live preview is not supported_
