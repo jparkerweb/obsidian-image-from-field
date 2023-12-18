@@ -1,4 +1,4 @@
-# 🌅 obsidian-image-from-field
+# 🌅 Obsidian Image From Field
 _DataviewJS Script to render a Markdown image in Reading View using a local field for the source_
 
 I often include an image URL for a note in my frontmatter or inline field. This allows me to render it using `dataview` queries in other notes. This is handy, but sometimes I also want that image to be displayed on its note as well. I could easily just embedd the image as well as having it in a field, but this creates duplication, and is harder to maintain if the URL needs to be updated. This `dataviewjs` script will read the URL from your supplied field and reder the image using that source. Additionally, there are some quality of life improvements as it also accepts size and alignment values.
